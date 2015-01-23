@@ -2,46 +2,22 @@
 
 @font-face {
     font-family: 'MavenProRegular';
-    src: url('http://in04.hostcontrol.com/resources/fonts/maven_pro_regular-webfont.eot');
-    src: url('http://in04.hostcontrol.com/resources/fonts/maven_pro_regular-webfont.eot?#iefix') format('eot'),
-         url('http://in04.hostcontrol.com/resources/fonts/maven_pro_regular-webfont.woff') format('woff'),
-         url('http://in04.hostcontrol.com/resources/fonts/maven_pro_regular-webfont.ttf') format('truetype'),
-         url('http://in04.hostcontrol.com/resources/fonts/maven_pro_regular-webfont.svg#webfontOM8fITNz') format('svg');
+    src: url('/fonts/maven_pro_regular-webfont.eot');
+    src: url('/fonts/maven_pro_regular-webfont.eot?#iefix') format('eot'),
+         url('/fonts/maven_pro_regular-webfont.woff') format('woff'),
+         url('/fonts/maven_pro_regular-webfont.ttf') format('truetype'),
+         url('/fonts/maven_pro_regular-webfont.svg#webfontOM8fITNz') format('svg');
     font-weight: normal;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'robotobold';
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Bold-webfont.eot');
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Bold-webfont.woff') format('woff'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Bold-webfont.ttf') format('truetype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Bold-webfont.svg#robotobold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'robotoitalic';
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Italic-webfont.eot');
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Italic-webfont.woff') format('woff'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Italic-webfont.ttf') format('truetype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Italic-webfont.svg#robotoitalic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
 }
 
 @font-face {
     font-family: 'robotolight';
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Light-webfont.eot');
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Light-webfont.woff') format('woff'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Light-webfont.ttf') format('truetype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Light-webfont.svg#robotolight') format('svg');
+    src: url('/fonts/Roboto-Light-webfont.eot');
+    src: url('/fonts/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/Roboto-Light-webfont.woff') format('woff'),
+         url('/fonts/Roboto-Light-webfont.ttf') format('truetype'),
+         url('/fonts/Roboto-Light-webfont.svg#robotolight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -49,11 +25,11 @@
 
 @font-face {
     font-family: 'robotoregular';
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Regular-webfont.eot');
-    src: url('http://in04.hostcontrol.com/resources/fonts/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Regular-webfont.woff') format('woff'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Regular-webfont.ttf') format('truetype'),
-         url('http://in04.hostcontrol.com/resources/fonts/Roboto-Regular-webfont.svg#robotoregular') format('svg');
+    src: url('/fonts/Roboto-Regular-webfont.eot');
+    src: url('/fonts/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/Roboto-Regular-webfont.woff') format('woff'),
+         url('/fonts/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('/fonts/Roboto-Regular-webfont.svg#robotoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -307,11 +283,11 @@ display: inline;
 /* Social icons */
 @font-face {
     font-family: 'socicon';
-    src: url('http://in04.hostcontrol.com/resources/fonts/socicon-webfont.eot');
-    src: url('http://in04.hostcontrol.com/resources/fonts/socicon-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://in04.hostcontrol.com/resources/fonts/socicon-webfont.woff') format('woff'),
-         url('http://in04.hostcontrol.com/resources/fonts/socicon-webfont.ttf') format('truetype'),
-         url('http://in04.hostcontrol.com/resources/fonts/socicon-webfont.svg#englebertregular') format('svg');
+    src: url('/fonts/socicon-webfont.eot');
+    src: url('/fonts/socicon-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/socicon-webfont.woff') format('woff'),
+         url('/fonts/socicon-webfont.ttf') format('truetype'),
+         url('/fonts/socicon-webfont.svg#englebertregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -346,60 +322,6 @@ display: inline;
     color: #fcf9d7 !important;
     background: #d1cfb6;
 }
-
-/*.page .social-icon-twitter {
-	display: inline-block;
-	line-height: 1em;
-	width: 30px;
-	height: 30px;
-	background: url(http://in04.hostcontrol.com/resources/design/grey-trans/img/twitter.png);
-}
-
-.page .social-icon-twitter:hover {
-	background-color: #d1cfb6;
-	border-radius: 100px;
-}
-
-.page .social-icon-facebook {
-	display: inline-block;
-	line-height: 1em;
-	width: 30px;
-	height: 30px;
-	background: url(http://in04.hostcontrol.com/resources/design/grey-trans/img/facebook.png);
-}
-
-.page .social-icon-facebook:hover {
-	background-color: #d1cfb6;
-	border-radius: 100px;
-}
-
-.page .social-icon-gplus {
-	display: inline-block;
-	line-height: 1em;
-	width: 30px;
-	height: 30px;
-	background: url(http://in04.hostcontrol.com/resources/design/grey-trans/img/gplus.png);
-}
-
-.page .social-icon-gplus:hover {
-	background-color: #d1cfb6;
-	border-radius: 100px;	
-}
-
-
-.page .social-icon-linkedin {
-	display: inline-block;
-	line-height: 1em;
-	width: 30px;
-	height: 30px;
-	background: url(http://in04.hostcontrol.com/resources/design/grey-trans/img/linkedin.png);
-}
-
-.page .social-icon-linkedin:hover {
-	background-color: #d1cfb6;
-	border-radius: 100px;	
-}*/
-
 
 .page .social {
     margin: 0;
@@ -765,6 +687,6 @@ div.header{
 }
 
 .wrapper{ 
-	background:url('http://dl.dropbox.com/s/sd065jrds8r525s/sisi30.gif');
+	background:url('/img/sisi30.gif');
 	background-repeat:repeat;
 }
