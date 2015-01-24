@@ -84,7 +84,7 @@ html {
 /* Nieuw menu  */
 
 .page .navbar{
-	background: #e2133f;
+    background-color: rgba(0, 0, 0, 0.7);
 	border: none;
 	box-shadow: none;
 	padding-left: 0px;
@@ -124,7 +124,7 @@ display: inline;
 
 .page .navbar .nav > li > a {
 	padding: 20px 40px 20px 40px;
-	color: #000000;
+	color: white;
 	text-shadow: none;
 	display: inline-block;
 	transition: background-color 0.2s ease;
