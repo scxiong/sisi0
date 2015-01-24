@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-      <title>Damstraat 6, 2011 HA Haarlem – Nieuw Chinese Massagesalon Si Si</title>
+      <title>Si Si Massagesalon</title>
       <!-- Includes -->
       <link href='/css/bootstrap-v1.css' rel='stylesheet' type='text/css'>
       <link href='/css/bootstrap-responsive-v1.css' rel='stylesheet' type='text/css'>
@@ -98,45 +98,22 @@
                               <div class="main-content">
                                  <h2>Welkom</h2>
                                  <p>
-                                    Let op: U kunt parkeren <seg style="font-weight:bold;background-color:yellow; color: black"> in de parkeergarage De Appelaar</seg>. Onze massagesalon ligt slechts 50 meter aan de linkerkant van de uitgang Damstraat boven het parkeergarage!<br />
-                                    <br />
-                                    <br />
-                                    <span style="font-weight: bold;">Chinese massagesalon in Haarlem</span>
-                                    <br />
-                                    Si si massagesalon is het adres in Haarlem om van een tradiotionele chinese massage te genieten. Het salon is gelegen in de Damstraat 6 in Haarlem (naast het Teylers museum).
-                                    <br />
-                                    <br />
-                                    Een team van gekwalificeerde en kundige medewerksters staat voor u klaar voor een gezonde en ontspannende massage. 
-                                    <br />
-                                    <br />
-                                    <span style="font-weight: bold;">Chinese massage in Haarlem</span>
-                                    <br />
-                                    Een bezoek aan Si Si massagesalon is echt relax en een belevenis die u niet snel zult vergeten. Het is een reis van tijdloos genieten waarbij u kennismaakt met oosterse sferen. Wil jij weer blaken van de energie? Even alles loslaten en alles kunnen vergeten? Zodat je heel de wereld weer aan kan?
-                                    <br />
-                                    <br />
-                                    Na een dag hard werken bent u er aan toe. Wilt u uw schouders en rug eens heerlijk laten masseren? Ook uw voeten, handen en uw hoofd worden gemasseerd. Dat is echt een fantastische ervaring. Uw vastzittende spieren worden losgemaakt, stijve gewrichten worden losser en de bloedcirculatie wordt bevorderd. Een Chinese massage neemt de stress weg. Daardoor slaapt u beter. Ontdek het zelf!
-                                    <br />
-                                    <br />
-                                    Na de behandeling voelt u weer blakend van de energie. Het is alsof u net terug van vakantie bent. De stress is weg en de fitheid is terug. U hebt het gevoel alsof je de hele wereld aan kunt.
-                                    <br />
-                                    <br />
-                                    Een regelmatig saunabezoek is gezond voor jong en oud, pure ontspanning voor lichaam en geest. Gun uzelf daarom een sauna en neem de tijd om af en toe op deze uiterst gezonde wijze te ontspannen, even weg uit de dagelijkse beslommeringen.
-                                    <br />
+                                    Welkom bij Si Si Massagesalon in Haarlem.<br /><br />Bij ons kunt u terecht voor diverse traditionele massages, zoals een heerlijk ontspannende massage of een diepe losmakende massage.<br /><br />De massages worden gegeven in vier nette en schone kamers, met mogelijkheid om te douchen. <br /><br />Of U spierpijn heeft of gewoon wilt ontspannen, kom gerust bij ons langs.<br />Al onze masseuses hebben jarenlange ervaring dus U bent altijd in goede handen!<br />
                                  </p>
                                  <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
                                  <link rel="stylesheet" href="/css/colorbox.css">
                                  <div class="gallery">
                                     <div class="image gallery-324616-image">
-                                       <a class="image-link" href="/img/sisi10.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi10.jpg" alt="" /></a>
+                                       <a class="image-link" href="/img/sisi00.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi00.jpg" alt="" /></a>
                                     </div>
                                     <div class="image gallery-324616-image">
-                                       <a class="image-link" href="/img/sisi11.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi11.jpg" alt="" /></a>
+                                       <a class="image-link" href="/img/sisi01.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi01.jpg" alt="" /></a>
                                     </div>
                                     <div class="image gallery-324616-image">
-                                       <a class="image-link" href="/img/sisi12.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi12.jpg" alt="" /></a>
+                                       <a class="image-link" href="/img/sisi02.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi02.jpg" alt="" /></a>
                                     </div>
                                     <div class="image gallery-324616-image">
-                                       <a class="image-link" href="/img/sisi13.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi13.jpg" alt="" /></a>
+                                       <a class="image-link" href="/img/sisi03.jpg" data-fancybox-group="gallery" title=""><img src="/img/sisi03.jpg" alt="" /></a>
                                     </div>
                                     <div class="clearfix"></div>
                                  </div>
@@ -149,11 +126,11 @@
                                  </script>
                                  <h2>Prijslijst</h2>
                                  <p>
-                                    <seg style="font-size:21px; font-weight:bold; background-color:yellow; color: black">OPENINGSKORTING</seg><br /><br />
+                                    <seg style="font-size:21px">OPENINGSKORTING</seg><br /><br />
                                        * Manicurebehandeling van € 20 voor € 15 <br />
                                        * Pedicurebehandeling van € 35 voor € 25 <br />
                                        * Elke 10e massage is gratis!!!<br />
-                                       (*) De actieprijzen zijn geldig van 1 november tot 1 mei 2015<br />
+                                       (*) De actieprijzen zijn geldig van 1 november tot 1 maart 2015<br />
                                        <br />
                                     <seg style="font-size:21px">Prijslijst behandelingen</seg><br /><br />
                                        Voetreflex massage  30 min € 25 <br />
@@ -165,9 +142,9 @@
                                        Tui Na massage   60 min € 40<br />
                                        Tui Na massage   90 min € 60<br />
                                        Tui Na massage   120 min € 75<br />
-                                       Tui Na massage   2 personen € 75<br />
+                                       Tui Na massage   2 personen € 70<br />
                                        <br />
-                                    <seg style="font-size:21px">Extra TCG behandeling (per 15 min)</seg><br /><br />
+                                    <seg style="font-size:21px">Extra TCG behandeling (per 12 min)</seg><br /><br />
                                        Cupping € 25  <br />
                                        Gua Sha € 25 <br />
                                        <br />
@@ -177,17 +154,14 @@
                                        Aanbrengen nagellak € 10<br />
                                        <br />
                                     <seg style="font-size:21px">Korte therapeutische behandeling</seg><br /><br />
-                                       Hoofd/schouder/rug etc. 30 min  € 25<br />
+                                       Hoofd/schouder/rug etc. 30 min  € 20<br />
                                        U kunt een cadeaubon bij ons kopen<br />
                                  </p>
                                  <h2>Openingstijden</h2>
                                  <p>
-                                    Open maandag t/m zondag, van 10:30 tot 23:00 uur<br /><br />Wij zijn elke dag geopend, neem alstublieft contact met ons op als U een afspraak wilt maken.<br />
+                                    Open maandag t/m zondag, van 10:30 tot 22:30 uur<br /><br />Wij zijn elke dag geopend, neem alstublieft contact met ons op als U een afspraak wilt maken.<br />
                                  </p>
                                  <h2>Contact</h2>
-                                 <p>
-                                    Let op: U kunt parkeren <seg style="font-weight:bold;background-color:yellow; color: black"> in de parkeergarage De Appelaar</seg>. Onze massagesalon ligt slechts 50 meter aan de linkerkant van de uitgang Damstraat boven het parkeergarage!<br />
-                                 </p>
                                  <ul class="contact-list">
                                     <li class="contact-list-item name">Si Si Massagesalon</li>
                                     <li class="contact-list-item email"><span class="contact-label">Email: </span> <a href="mailto: info@sisi-massage.nl">info@sisi-massage.nl</a></li>
@@ -197,30 +171,9 @@
                                        <iframe style="border: 3px solid #ccc; width: 100%; height: 300px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=Damstraat%206%0A2011HA%20Haarlem%0A%0A&z=15&iwloc=near&output=embed"></iframe>
                                     </li>
                                  </ul>
-                                 
-                                 <h2>Bereikbaarheid</h2>
-                                 <p>
-                                    Si Si massagesalon is te bereiken met het openbaar vervoer. Vanaf station Haarlem is het ongeveer 10 minuten lopen via de Jansweg, Jansstraat, dan linksaf de Korte Jansstraat in, dan rechtsaf de Bakenessergracht aflopen tot aan het eind. Bij het Spaarne slaat u rechtsaf. Si Si massagesalon is tegenover het Teylers Museum. <br />
-                                 </p>
-                                 <h2>Routebeschrijving voor de auto</h2>
-                                 <p>
-                                    Via de A9 neemt u de afslag Halfweg/Amsterdam/Haarlem en bij dit bij knooppunt Rottepolderplein volgt u Haarlem (A 200).<br />
-                                    Doorrijden richting Haarlem op de Amsterdamse Vaart (N200). Aan het eind van deze weg, bij de Amsterdamse Poort, slaat u rechtsaf (Gedempte Oostersingelgracht). Na ongeveer 170 meter neemt u de eerste afslag linksaf (Papentorenvest, gaat langs de Koepelgevangenis). Over de Catharijnebrug (over het Spaarne), gaat u linksaf (Koudenhorn), deze weg langs de rivier blijft u volgen (na verloop van tijd heet het Spaarne). U kunt parkeren in de parkeergarage De Appelaar. Onze massagesalon ligt slechts 50 meter aan de linkerkant van de uitgang Damstraat boven het parkeergarage!
-<br />
-                                 </p>
-                                 
                                  <h2>Meer over Massage</h2>
                                  <p>
-                                    <span style="font-weight: bold;">Traditionele Chinese massage</span><br>
-                                    Door speciale Chinese technieken wordt de doorbloeding aangezet en energiestromen geactiveerd, de behandeling heeft een heilzame werking op zowel lichaam als geest.<br><br>
-                                    <span style="font-weight: bold;">Voet massage</span><br>
-                                    Reflexgebieden in de voeten staan in verbinding met alle delen van het lichaam. middels druktechnieken op deze reflexen kan men op die manier de betreffende delen bereiken.<br>
-                                    Warme kruiden en olie massage<br><br>
-                                    <span style="font-weight: bold;">Cupping</span><br>
-                                    Middels deze therapie word een huidgedeelte vacuüm gezogen. De behandelde spieren en huid worden goed doorbloed, waardoor het voor het lichaam gemakkelijker wordt afvalstoffen af te voeren.<br><br>
-                                    <span style="font-weight: bold;">Guasha</span><br>
-                                    Middels het schrapen over de huid op bepaalde punten van het lichaam vindt een meer intensieve manier van massage plaats.<br>
-                                    Pedicure/voetverzorging<br><br>
+                                    Massage is de praktijk van het toepassen van gestructureerde druk, spanning, beweging of trilling van de zachte weefsels van het lichaam, zoals spieren, bindweefsel, pezen, gewrichtsbanden, gewrichten en lymfevaten, om een heilzame reactie te bereiken. Een vorm van therapie, massage kan worden toegepast op delen van het lichaam of achtereenvolgens op het gehele lichaam, om het proces van letsel herstel te helpen, verlichten van psychologische stress, omgang met pijn en verbetering van de circulatie.<br /><br />Massagetechnieken brengen met zich mee dat de cli&#235;nt liggend op een massagetafel wordt behandeld. In vele vormen van massage, start de behandeling van de klant met het gezicht naar beneden voor het eerste deel van de sessie: de klant rolt dan over voor de tweede helft van de sessie. Ontspanning is noodzakelijk om het maximale therapeutische voordeel te behalen.<br /><br /><br /><span style="font-weight: bold;">Chinese Geneeskrachtige Massage - Tui-Na</span><br /><br />Tui-Na is het oudste bekende systeem van massage. Van oorsprong uit China, het is opgenomen in de Gele Keizer&#8217;s Klassieker van de Interne Geneeskunde sinds 2300 v.C. als een van de vijf belangrijkste therapie&#235;n. Al die tijd is Tui-Na een georganiseerd en systematisch ontwikkeld systeem van massage gebleven. Momenteel wordt in China Tui-Na onderwezen als een apart, maar gelijk vakgebied in de grote traditionele Chinese medische colleges.<br /><br />Tui-Na methoden omvatten het gebruik van hand en arm technieken om de zachte weefsels van het lichaam te masseren, het stimuleren van acupressuur punten om direct de stroom van Qi energie via het systeem van kanalen te be&#239;nvloeden.<br /><br />Tui-Na is nu populair in vele landen als een krachtige therapeutische uitbreiding op de traditionele westerse massage methoden. Tui-Na&#8217;s eenvoud en concentratie op specifieke problemen, eerder dan een meer algemene behandeling, maakt het een uitstekende alternatief en uitbreiding van Zweedse stijl massage.<br /><br />Tui-Na massage heeft door de eeuwen heen bewezen dat het een effectief therapeutische hulpmiddel is en de theorie en prestaties zijn goed gedocumenteerd. De beste manier om te leren over Tui-Na massage is om de baten en het plezier zelf te ervaren.<br />
                                  </p>
                               </div>
                            </div>
