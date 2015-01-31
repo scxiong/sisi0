@@ -26,12 +26,6 @@ app.get('/robots.txt', function(request, response) {
   response.send(html);
 });
 
-app.get('/sitemap', function(request, response) {
-  var html = fs.readFileSync('sitemap.xml').toString();
-  response.send(html);
-});
-
-
 
 var port = process.env.PORT || 5000;
 app.listen(port, function() {
