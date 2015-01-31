@@ -494,8 +494,8 @@ width: 30%;
 .page .footer-content {
 	padding: 0 0 0 0;
 	margin: 15px 0 0px 0;
-	background: #000000;
-	color: #ffffff;
+	background: rgba(0, 0, 0, 0.7); /*#000000;
+	color: #ffffff;*/
 	font-family: 'robotoregular', sans-serif;
 	font-size: 13px;
 }
